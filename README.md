@@ -57,5 +57,4 @@ Maintenance & Updates
 * Optimize images for performance
 * Monitor security updates
 
-* Customize it for **WordPress only**
-* Add **deployment instructions (cPanel / hosting)**
+
